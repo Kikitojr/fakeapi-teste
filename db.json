@@ -1,29 +1,13 @@
 {
   "profile": [ 
-    {
-      "id": 1,
-      "name": "AliCODE"
-    }
-    { "id": 2,
-      "name": "FeReiDelass"
-    }
-    { "id": 3,
-      "name": "LincoBigBrain"
-    }
+    { "id": 1, "nome": "AliCODE" },
+    { "id": 2, "nome": "FeReiDelass" },
+    { "id": 3, "nome": "LincoBigBrain" }
   ],
   "description": [ 
-  {
-    "id": 1,
-    "descricao": "hoje é so codigoo"
-  }
-  {
-    "id": 2,
-    "descricao": "Pai ta onn"
-  }
-  {
-    "id": 3,
-    "descricao": "estudar, estudar, estudar, ja falei estudar?"
-  }
+    { "id": 1, "descricao": "hoje é so codigoo" },
+    { "id": 2, "descricao": "Pai ta onn" },
+    {"id": 3, "descricao": "estudar, estudar, estudar, ja falei estudar?"}
   ],
   "group": {
     "name": "amigos do Kikito"
