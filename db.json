@@ -1,19 +1,5 @@
 {
-  "amigos": [
-    {
-      "id": 1,
-      "title": "Alison"
-    }
-    {
-      "id": 2,
-      "title": "Felipe"
-    }
-    {
-      "id": 3,
-      "title": "Lincoln"
-    }
-  ],
-  "profile":[ 
+  "profile": [ 
     {
       "id": 1,
       "name": "AliCODE"
@@ -25,21 +11,7 @@
       "name": "LincoBigBrain"
     }
   ],
-  "posts":[ 
-  {
-    "id": 1,
-    "url": "https://www.creativefabrica.com/wp-content/uploads/2023/04/03/Lofi-Anime-Girl-Programming-At-Computer-66116973-1.png"
-  }
-  {
-    "id": 2,
-    "url": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2014/01/14/fotoronaldinho.jpg"
-  }
-  {
-    "id": 3,
-    "url": "https://i.pinimg.com/originals/33/e0/b1/33e0b16c203da620db576988e7458100.jpg"
-  }
-  ],
-  "description":[ 
+  "description": [ 
   {
     "id": 1,
     "descricao": "hoje é so codigoo"
