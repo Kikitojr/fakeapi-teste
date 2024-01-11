@@ -9,6 +9,11 @@
     { "id": 2, "descricao": "Pai ta onn" },
     {"id": 3, "descricao": "estudar, estudar, estudar, ja falei estudar?"}
   ],
+  "posts": [ 
+    { "url": "https://www.creativefabrica.com/wp-content/uploads/2023/04/03/Lofi-Anime-Girl-Programming-At-Computer-66116973-1.png" },
+    { "url": "https://extra.globo.com/incoming/18179095-3bc-b95/w976h550-PROP/festa-tuf-ufc-1.jpg" },
+    { "url": "https://i.pinimg.com/originals/33/e0/b1/33e0b16c203da620db576988e7458100.jpg"}
+  ],
   "group": {
     "name": "amigos do Kikito"
   }
